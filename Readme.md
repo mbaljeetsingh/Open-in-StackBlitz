@@ -3,9 +3,8 @@
 ![Image](https://user-images.githubusercontent.com/1051509/46907462-fc0ef600-cf12-11e8-8d73-05b95577364e.png)
 
 [![available in the chrome store](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/jkhbnhagngalpojoeijaleemepfpefmp)
-[Download for firefox](https://addons.mozilla.org/en-US/firefox/addon/open-in-codesandbox/)
 
-This extension adds a button to all github repos that will open that repo in CodeSandbox in a new window
+This extension adds a button to all github repos that will open that repo in StackBlitz in a new window
 
 ## How to run in Chrome
 
@@ -15,13 +14,11 @@ This extension adds a button to all github repos that will open that repo in Cod
 
 ![load](https://developer.chrome.com/static/images/get_started/load_extension.png)
 
-
 ## How to run in Firefox
 
 - Open about:debugging
 - Click "Load Temporary Add-on"
 - Open the extension's directory and select any file inside the extension.
-
 
 ## How to publish
 
