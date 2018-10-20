@@ -20,6 +20,4 @@ This extension adds a button to all github repos that will open that repo in Sta
 - Click "Load Temporary Add-on"
 - Open the extension's directory and select any file inside the extension.
 
-## How to publish
-
-Unfortunately there is a need for a key to in order to update apps so as soon as something gets merged pls ping me at @SaraVieira in the PR and I will create a new version
+Big thanks to [@SaraVieira](https://twitter.com/mbaljeetsingh) for CodeSandbox Client [Browser extension](https://github.com/CompuIves/codesandbox-client/tree/master/packages/chrome-extension)
