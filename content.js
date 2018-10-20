@@ -22,7 +22,7 @@ const addButton = () => {
 
   // Create the button
   const button = document.createElement('a');
-  button.setAttribute('href', `https://codesandbox.io/s/github${URL}`);
+  button.setAttribute('href', `https://stackblitz.com/github${URL}`);
   button.setAttribute('target', '_blank');
   button.setAttribute('rel', 'noopener noreferrer');
 
@@ -30,11 +30,11 @@ const addButton = () => {
     'btn',
     'btn-sm',
     'btn-primary',
-    'open-codesanbox-chrome-extension'
+    'open-stackblitz-chrome-extension'
   );
   button.innerHTML = `
   ${SVG}
-  Open in CodeSandbox
+  Open in StackBlitz
 `;
 
   // Add it to the DOM
