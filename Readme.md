@@ -1,8 +1,8 @@
 # Browser Extension
 
-![Image](https://user-images.githubusercontent.com/1051509/46907462-fc0ef600-cf12-11e8-8d73-05b95577364e.png)
+![Image](https://i.imgur.com/LfgE1bz.png)
 
-[![available in the chrome store](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/jkhbnhagngalpojoeijaleemepfpefmp)
+[![available in the chrome store](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/biocgmgmpiglbdffjdbciegmpfnmfgmb)
 
 This extension adds a button to all github repos that will open that repo in StackBlitz in a new window
 
